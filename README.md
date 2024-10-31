@@ -1,5 +1,5 @@
 # IA Simbólica
-Este projeto é um trabalho semestral para a matéria de Inteligência artificial.
+Este projeto é um trabalho semestral para a matéria de Inteligência Artificial.
 
 ## Especificações do trabalho
 Considere o problema do labirinto: um robô deve caminhar da entrada do labirinto, até sua saída. O labirinto é representado como uma matriz de tamanho 10x10.
